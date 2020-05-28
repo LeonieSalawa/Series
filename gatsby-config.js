@@ -46,16 +46,5 @@ module.exports = {
     `gatsby-plugin-offline`,
     `gatsby-plugin-netlify`,
   ],
-  name: 'Léonie',
-  location: 'Belgium',
-  socialMedia: [
-    {
-      url: 'https://twitter.com/leoniesalawa',
-      name: 'Twitter',
-    },
-    {
-      url: 'https://www.instagram.com/leoniesalawa',
-      name: 'Instagram',
-    },
-  ],
+  
 }
