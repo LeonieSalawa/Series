@@ -22,8 +22,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Emilia - @lekoarts/gatsby-theme-emilia`,
-        short_name: `Emilia`,
+        name: `Léonie - a Series`,
+        short_name: `Series`,
         description: `Minimalistic portfolio/photography site with masonry grid, page transitions and big images. Themeable with Theme UI.`,
         start_url: `/`,
         background_color: `#fff`,
@@ -46,4 +46,16 @@ module.exports = {
     `gatsby-plugin-offline`,
     `gatsby-plugin-netlify`,
   ],
+  name: Léonie
+  location: Belgium
+  socialMedia: [
+    {
+      url: 'https://twitter.com/leoniesalawa'
+      name: 'Twitter'
+    },
+    {
+      url: 'https://www.instagram.com/leoniesalawa'
+      name: 'Instagram'
+    }
+  ]
 }
