@@ -50,12 +50,12 @@ module.exports = {
   location: 'Belgium',
   socialMedia: [
     {
-      url: 'https://twitter.com/leoniesalawa'
-      name: 'Twitter'
+      url: 'https://twitter.com/leoniesalawa',
+      name: 'Twitter',
     },
     {
-      url: 'https://www.instagram.com/leoniesalawa'
-      name: 'Instagram'
+      url: 'https://www.instagram.com/leoniesalawa',
+      name: 'Instagram',
     },
   ],
 }
