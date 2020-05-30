@@ -10,7 +10,14 @@ module.exports = {
     {
       resolve: `@lekoarts/gatsby-theme-emilia`,
       // See the theme's README for all available options
-      options: {},
+      options: {
+        socialMedia: [
+          {
+            title: 'Instagram'
+            href: 'https://www.instagram.com/leoniesalawa'
+          }
+        ]
+      },
     },
     {
       resolve: `gatsby-plugin-google-analytics`,
@@ -25,7 +32,7 @@ module.exports = {
         name: `Léonie - a Series`,
         short_name: `Series`,
         description: `Minimalistic portfolio/photography site with masonry grid, page transitions and big images. Themeable with Theme UI.`,
-        start_url: `/`,
+        start_url: `https://series.leoniesalawa.me`,
         background_color: `#fff`,
         theme_color: `#3182ce`,
         display: `standalone`,
