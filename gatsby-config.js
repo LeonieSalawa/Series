@@ -15,7 +15,7 @@ module.exports = {
       resolve: `@lekoarts/gatsby-theme-emilia`,
       // See the theme's README for all available options
       options: {
-        name: `Léonie`,
+        name: `Cœurly`,
         location: `Belgium`,
         socialMedia: [
           {          
@@ -43,8 +43,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Léonie - a Series`,
-        short_name: `Series`,
+        name: `Cœurly – a Series`,
+        short_name: `Cœurly`,
         description: `Minimalistic portfolio/photography site with masonry grid, page transitions and big images. Themeable with Theme UI.`,
         start_url: `https://series.leoniesalawa.me`,
         background_color: `#fff`,
