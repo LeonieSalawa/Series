@@ -16,13 +16,11 @@ module.exports = {
       // See the theme's README for all available options
       options: {
         socialMedia: [
-          {
-            title: `Instagram`,
-            href: `https://www.instagram.com/leoniesalawa`,
-          
-          
+          {          
             title: `Twitter`,
             href: `https://www.twitter.com/leoniesalawa`,
+            title: `Instagram`,
+            href: `https://www.instagram.com/leoniesalawa`,
           }
         ]
       },
