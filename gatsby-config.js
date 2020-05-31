@@ -12,7 +12,7 @@ module.exports = {
   },
   plugins: [
     {
-      resolve: `@lekoarts/gatsby-theme-emilia`,
+      resolve: `@leoniesalawa/Series`,
       // See the theme's README for all available options
       options: {
         name: `Cœurly`,
@@ -57,7 +57,7 @@ module.exports = {
             type: `image/png`,
           },
           {
-            src: `/android-chrome-512x512.png`,
+            src: `/coeurly.png`,
             sizes: `512x512`,
             type: `image/png`,
           },
