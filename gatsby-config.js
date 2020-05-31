@@ -4,9 +4,9 @@ require(`dotenv`).config({
 
 module.exports = {
   siteMetadata: {
-    siteTitle: `Léonie – a Series`,
-    siteTitleAlt: `Léonie - a Series`,
-    siteHeadline: `Léonie - a Series`,
+    siteTitle: `Cœurly – a Series`,
+    siteTitleAlt: `Cœurly - a Series`,
+    siteHeadline: `Cœurly - a Series`,
     siteUrl: `https://series.leoniesalawa.me`,
     author: `@leoniesalawa`,
   },
