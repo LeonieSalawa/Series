@@ -4,11 +4,11 @@ require(`dotenv`).config({
 
 module.exports = {
   siteMetadata: {
-    siteTitle: 'Léonie – a Series',
+    siteTitle: `Léonie – a Series`,
     siteTitleAlt: `Léonie - a Series`,
-    siteHeadline: 'Léonie - a Series',
-    siteUrl: 'https://series.leoniesalawa.me',
-    author: '@leoniesalawa'
+    siteHeadline: `Léonie - a Series`,
+    siteUrl: `https://series.leoniesalawa.me`,
+    author: `@leoniesalawa`,
   },
   plugins: [
     {
@@ -17,12 +17,12 @@ module.exports = {
       options: {
         socialMedia: [
           {
-            title: 'Instagram',
-            href: 'https://www.instagram.com/leoniesalawa',
+            title: `Instagram`,
+            href: `https://www.instagram.com/leoniesalawa`,
           }
           {
-            title: 'Twitter',
-            href: 'https://www.twitter.com/leoniesalawa',
+            title: `Twitter`,
+            href: `https://www.twitter.com/leoniesalawa`,
           }
         ]
       },
