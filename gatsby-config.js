@@ -19,6 +19,10 @@ module.exports = {
           {          
             title: `Twitter`,
             href: `https://www.twitter.com/leoniesalawa`,
+          }
+        ]
+        socialMedia: [
+          {          
             title: `Instagram`,
             href: `https://www.instagram.com/leoniesalawa`,
           }
