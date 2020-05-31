@@ -13,8 +13,12 @@ module.exports = {
       options: {
         socialMedia: [
           {
-            title: 'Instagram'
-            href: 'https://www.instagram.com/leoniesalawa'
+            title: 'Instagram',
+            href: 'https://www.instagram.com/leoniesalawa',
+          }
+          {
+            title: 'Twitter',
+            href: 'https://www.twitter.com/leoniesalawa',
           }
         ]
       },
