@@ -4,7 +4,11 @@ require(`dotenv`).config({
 
 module.exports = {
   siteMetadata: {
-    siteTitleAlt: `Emilia - Gatsby Starter Portfolio`,
+    siteTitle: 'Léonie – a Series',
+    siteTitleAlt: `Léonie - a Series`,
+    siteHeadline: 'Léonie - a Series',
+    siteUrl: 'https://series.leoniesalawa.me',
+    author: '@leoniesalawa'
   },
   plugins: [
     {
