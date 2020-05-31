@@ -19,8 +19,8 @@ module.exports = {
           {
             title: `Instagram`,
             href: `https://www.instagram.com/leoniesalawa`,
-          }
-          {
+          
+          
             title: `Twitter`,
             href: `https://www.twitter.com/leoniesalawa`,
           }
