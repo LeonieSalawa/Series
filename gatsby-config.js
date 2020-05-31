@@ -15,17 +15,21 @@ module.exports = {
       resolve: `@lekoarts/gatsby-theme-emilia`,
       // See the theme's README for all available options
       options: {
+        name: `Léonie`,
+        location: `Belgium`,
         socialMedia: [
           {          
             title: `Twitter`,
-            href: `https://www.twitter.com/leoniesalawa`,
+            href: `https://www.twitter.com/leoniesalawa`
           },
-        ],
-        socialMedia: [
           {          
             title: `Instagram`,
-            href: `https://www.instagram.com/leoniesalawa`,
+            href: `https://www.instagram.com/leoniesalawa`
           },
+          {          
+            title: `Pinterest`,
+            href: `https://www.pinterest.com/leoniesalawa_`
+          }
         ],
       },
     },
